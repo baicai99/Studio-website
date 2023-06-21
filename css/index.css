@@ -28,7 +28,7 @@
   float: left;
   height: 36px;
   width: 112.5px;
-  background-image: url(../images/Logo-White.png);
+  background-image: url(https://picsum.photos/140/40);
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -85,7 +85,7 @@
 }
 
 .three-box-project .three-box-items1 {
-  background-image: url(../images/1.png);
+  background-image: url(https://picsum.photos/1440/380);
   background-position-y: -100px;
   background-position-x: center;
   background-repeat: no-repeat;
@@ -160,7 +160,7 @@
 }
 
 .three-box-project .three-box-items2 .middle-box .middle-box-picture1 {
-  background-image: url(../images/2.png);
+  background-image: url(https://picsum.photos/540/348?=1);
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -195,7 +195,7 @@
 }
 
 .three-box-project .three-box-items3 .middle-box .middle-box-picture2 {
-  background-image: url(../images/3.png);
+  background-image: url(https://picsum.photos/540/348?=2);
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -271,21 +271,21 @@
 }
 
 .learn-more .learn-more-items .learn-more-items-box .learn-more-items-box-items1 .learn-more-items-box-items-top {
-  background-image: url(../images/4.png);
+  background-image: url(https://picsum.photos/444/274?=1);
   background-size: 125%;
   background-repeat: no-repeat;
   background-position: -30px 0;
 }
 
 .learn-more .learn-more-items .learn-more-items-box .learn-more-items-box-items2 .learn-more-items-box-items-top {
-  background-image: url(../images/5.png);
+  background-image: url(https://picsum.photos/444/274?=2);
   background-size: 125%;
   background-repeat: no-repeat;
   background-position: -30px 0;
 }
 
 .learn-more .learn-more-items .learn-more-items-box .learn-more-items-box-items3 .learn-more-items-box-items-top {
-  background-image: url(../images/6.png);
+  background-image: url(https://picsum.photos/444/274?=3);
   background-size: 125%;
   background-repeat: no-repeat;
   background-position: -30px 0;
@@ -310,7 +310,7 @@
   top: 0;
   left: 0;
   position: absolute;
-  background-image: url(../images/Logo-White.png);
+  background-image: url(https://picsum.photos/140/40);
   background-size: 100%;
   background-repeat: no-repeat;
   height: 36px;
