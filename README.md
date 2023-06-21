@@ -3,6 +3,9 @@
 * 2023.6.32更新：以前大学室友一起做的网页，一人做一页。设计图他们网上找的，反正因为避免版权纠纷，我把图片都删了，文字也替换了。为了避免版权纠纷，所有图片都采用了[picsum](https://picsum.photos/)的开源图片作为填充替代。文字填充采用Chinese Lorem。
 ## English
 * 2023.6.32 Update: Former college roommates do web pages together, one person does one page. They found the blueprints online, but to avoid copyright disputes, I deleted the pictures and replaced the text. To avoid copyright disputes, all images have been filled with open source images from [picsum](https://picsum.photos/) instead. Chinese Lorem is used for text filling.
+# 预览
+![screencapture-file-Users-zhengjiyuan-Documents-index-html-2023-06-21-22_01_10](https://github.com/baicai99/Studio-website/assets/101706274/e32ac257-63f0-4f6d-81b1-645e6401f091)
+
 # 通用免责声明/General disclaimer
 ## 中文
 侵权联系声明：
